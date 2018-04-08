@@ -32,6 +32,13 @@ p:last-child {
 
 #project-tech{
   font-size: 12px;
+  margin-top: 0px;
+}
+
+h4{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color:  #999;
 }
 h1,
 h2,
